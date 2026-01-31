@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header{
+
+    background-color:aqua;
+    color:#191970;
+
+}
+
+header a{
+
+    background-color: aliceblue;
+    margin:10px;
+    border-radius:30%;
+    padding:10px;
+}
+
+H1{
+
+    text-align: center;
+    color:aquamarine;
+    border:2px solid darkgoldenrod
+}
